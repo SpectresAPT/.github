@@ -24,6 +24,6 @@ Les projets peuvent être expérimentaux, incomplets ou en évolution constante.
 
 | Catégorie | Technologies |
 |---------|-------------|
-| **Langages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,html,css&size=48" /> |
+| **Langages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,html,css,python&size=48" /> |
 | **Systèmes** | <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,raspberrypi&size=48" /> |
 | **Outils** | <img src="https://skillicons.dev/icons?i=vscode,qt,github,&size=48" /> |
