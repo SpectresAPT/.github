@@ -8,7 +8,7 @@ Nous sommes encore en phase d’apprentissage et d’évolution, mais nous déve
 
 - [**m0bley-git**](https://github.com/m0bley-git)
 - [**jr534**](https://github.com/jr534)  
-- [**Dexort**](https://github.com/USERNAME)  
+- [**Dexort**](https://github.com/Dexort)  
 
 ## 🎯 Objectif
 
