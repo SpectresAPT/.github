@@ -19,7 +19,7 @@ Apprendre ensemble, développer des projets intéressants, progresser en program
 Spectre APT est encore en développement.  
 Les projets peuvent être expérimentaux, incomplets ou en évolution constante.
 
-## Our Tech Stack
+## 💻 Our Tech Stack
 
 | Catégorie | Technologies |
 |---------|-------------|
