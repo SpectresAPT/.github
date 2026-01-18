@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SpectresAPT.png" alt="Spectre APT Logo" width="200"/>
+<img src="assets/spectreapt.png" alt="Spectre APT Logo" width="200"/>
 
 # 👻 Spectre APT
 
