@@ -74,9 +74,11 @@ Apprendre ensemble, développer des projets intéressants, progresser en program
 
 ## 🚀 Nos domaines
 
+<div align="center">
 ```
 🔐 Cybersécurité    💻 Développement    🌐 Infrastructure    📚 Apprentissage
 ```
+</div>
 
 ---
 
