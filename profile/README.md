@@ -7,11 +7,14 @@
 ### *"La liberté est notre code source"*
 ### *"Freedom is our source code"*
 
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
-![Team](https://img.shields.io/badge/Team-3%20Members-blue?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-France%20🇫🇷-blueviolet?style=for-the-badge)
-
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Team-3%20Members-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-France%20🇫🇷-blueviolet?style=for-the-badge">
+</p>
+
 
 ---
 
