@@ -94,6 +94,6 @@ Apprendre ensemble, développer des projets intéressants, progresser en program
 
 <div align="center">
 
-**Made with 💀 by Spectre APT**
+**Made with by Spectre APT**
 
 </div>
