@@ -65,11 +65,11 @@ Apprendre ensemble, développer des projets intéressants, progresser en program
   </tr>
   <tr>
     <td align="center"><b>Systèmes</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,raspberrypi&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,mint,windows,raspberrypi&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Outils</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,qt,github&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,qt,arduino,git,github,vercel&theme=dark" /></td>
   </tr>
 </table>
 
