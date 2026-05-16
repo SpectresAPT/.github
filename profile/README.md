@@ -34,8 +34,8 @@ Apprendre ensemble, développer des projets intéressants, progresser en program
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/sawlvl">
-        <img src="https://github.com/sawlvl.png" width="100px;" alt="sawlvl"/><br />
+      <a href="https://github.com/wilstan-sanquer">
+        <img src="https://github.com/wilstan-sanquer.png" width="100px;" alt="sawlvl"/><br />
         <sub><b>SAW</b></sub>
       </a>
     </td>
